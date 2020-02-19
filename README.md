@@ -4,10 +4,12 @@ A 5-STAGE PIPELINED  Core on RISC-V Implementation With Hazards
 Designed by Syeda Fizza Jaffery
 
 First of all get started by cloning this repository on your machine.
+make a folder Zarrar_1 and then clone the given folders in that folder
 
 git clone https://github.com/syedafizza1/5-Stage-Pipelined-RISC-V-Core.git
 
 Create a .txt file and place the hexadecimal code of your instructions simulated on Venus (RISC-V Simulator) Each instruction's hexadecimal code must be on seperate line as following. This program consists of 9 instructions.
+
 
 00500193
 008000ef
